@@ -1,4 +1,4 @@
-#Algorithm Notes  
+# Algorithm Notes  
 *Personal hand-written notes on algorithm online course MIT 6.006*  
 
 # Contents  
