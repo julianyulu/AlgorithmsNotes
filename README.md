@@ -15,7 +15,15 @@
   - Document distance problem
   - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/2.Models%20of%20Computation%2C%20Document%20Distance.pdf)
   - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture2_Models_of_Computation.pdf)
++ 3. [Insertion Sort and Merge Sort](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/3.Insertion%20Sort%20and%20Merge%20Sort.pdf)  
+  - Why sorting ?
+  - Insertion sort
+  - Merge Sort
+  - Recurrence solving 
+  - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/3.Insertion%20Sort%20and%20Merge%20Sort.pdf)
+  - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture3_Insertion_Sort_Merge_Sort.pdf)  
   
+
 # Last update  
-Jun. 12, 2018
+Jun. 13, 2018
 
