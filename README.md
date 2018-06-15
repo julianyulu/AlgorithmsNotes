@@ -22,8 +22,16 @@
   - Recurrence solving 
   - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/3.Insertion%20Sort%20and%20Merge%20Sort.pdf)
   - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture3_Insertion_Sort_Merge_Sort.pdf)  
++ 4. [Heaps and Heap Sort](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/4.Heaps%20and%20Heap%20Sort.pdf)  
+  - Priority queue
+  - Heap 
+  - Heap operations 
+  - Heap sort 
+  - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/4.Heaps%20and%20Heap%20Sort.pdf)
+  - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture4_Heap_and_Heap_sort.pdf)
+  
   
 
 # Last update  
-Jun. 13, 2018
+Jun. 15, 2018
 
