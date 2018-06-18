@@ -34,7 +34,14 @@
   - Binary search tree
   - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/5.Binary%20Search%20Trees%2C%20BST%20Sort.pdf)
   - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture5_Binary_Search_Trees_and_BST_Sort.pdf)
++ 6. AVL Trees
+  - Balanced BST
+  - Height of tree
+  - AVL tree, insert, rotation, sort
+  - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/6.AVL%20Trees%2C%20AVL%20Sort.pdf)
+  - [Lecturn pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture6_AVL_Trees_and_AVL_Sort.pdf)
+  
   
 # Last update  
-Jun. 16, 2018
+Jun. 17, 2018
 
