@@ -39,9 +39,19 @@
   - Height of tree
   - AVL tree, insert, rotation, sort
   - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/6.AVL%20Trees%2C%20AVL%20Sort.pdf)
-  - [Lecturn pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture6_AVL_Trees_and_AVL_Sort.pdf)
+  - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture6_AVL_Trees_and_AVL_Sort.pdf)
++ 7. Counting Sort and Radix Sort  
+  - Comparison model
+  - Decision tree
+  - Lower bounds of searching 
+  - Lower bounds of sorting 
+  - Counting sort
+  - Radix sort 
+  - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/7.Counting%20Sort%2C%20Radix%20Sort%2C%20Lower%20Bounds%20for%20Sorting%20and%20Searching.pdf)
+  - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture7_Counting_Sort_Radix_Sort_Sorting_Searching_Lower_Bounds.pdf)
+  
   
   
 # Last update  
-Jun. 17, 2018
+Jun. 18, 2018
 
