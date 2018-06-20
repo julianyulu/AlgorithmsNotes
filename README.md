@@ -49,9 +49,19 @@
   - Radix sort 
   - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/7.Counting%20Sort%2C%20Radix%20Sort%2C%20Lower%20Bounds%20for%20Sorting%20and%20Searching.pdf)
   - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture7_Counting_Sort_Radix_Sort_Sorting_Searching_Lower_Bounds.pdf)
++ 8. Hashing with Chaining
+  - Dictionary
+  - Direct access table 
+  - Prehash
+  - Hashing
+  - Chaining
+  - Hashing function, Universal hashing
+  - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/8.Hashing%20with%20Chaining.pdf)  
+  - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture8_Hashing_with_Chaining.pdf)
   
-  
+    
+	
   
 # Last update  
-Jun. 18, 2018
+Jun. 20, 2018
 
