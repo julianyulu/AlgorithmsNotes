@@ -62,7 +62,7 @@
   - Table doubling
   - String matching
   - Karp Rabin string search algorithm 
-  - [Lecture Notes](
+  - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/9.Table%20Doubling%20and%20Karp%20Rabin.pdf)
   - [Lecture_pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture9_Table_Doubling_and_Karp_Rabin_Algorithm.pdf)
 
     
