@@ -58,7 +58,13 @@
   - Hashing function, Universal hashing
   - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/8.Hashing%20with%20Chaining.pdf)  
   - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture8_Hashing_with_Chaining.pdf)
-  
++ 9. Table Doubling and Karp Rabin Algorithm
+  - Table doubling
+  - String matching
+  - Karp Rabin string search algorithm 
+  - [Lecture Notes](
+  - [Lecture_pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture9_Table_Doubling_and_Karp_Rabin_Algorithm.pdf)
+
     
 	
   
