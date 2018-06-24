@@ -64,10 +64,16 @@
   - Karp Rabin string search algorithm 
   - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/9.Table%20Doubling%20and%20Karp%20Rabin.pdf)
   - [Lecture_pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture9_Table_Doubling_and_Karp_Rabin_Algorithm.pdf)
-
++ 10. Open Addressing and Cryptographic Hashing
+  - Open addressing
+  - Double hashing
+  - Uniform hashing 
+  - Cryptography hashing
+  - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/10.Open%20Addressing%20and%20Cryptographic%20Hashing.pdf)
+  - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture10_Open_Addressing_Cryptographic_Hashing.pdf)
     
 	
   
 # Last update  
-Jun. 20, 2018
+Jun. 23, 2018
 
