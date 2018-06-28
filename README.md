@@ -71,9 +71,17 @@
   - Cryptography hashing
   - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/10.Open%20Addressing%20and%20Cryptographic%20Hashing.pdf)
   - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture10_Open_Addressing_Cryptographic_Hashing.pdf)
-    
++ 11. Integer Arithmetic and Karatsuba Multiplication
+  - Catalan numbers 
+  - Newtown's method 
+  - High precision multiplication 
+  - Karatsuba algorithm 
+  - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/11.Integer%20Arithmetic%20and%20Karatsuba%20Multiplication.pdf)
+  - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture11_Interger_Arithmetic_and_Karatsuba_Multiplication.pdf)
+
+
 	
   
 # Last update  
-Jun. 23, 2018
+Jun. 28, 2018
 
