@@ -78,6 +78,13 @@
   - Karatsuba algorithm 
   - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/11.Integer%20Arithmetic%20and%20Karatsuba%20Multiplication.pdf)
   - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture11_Interger_Arithmetic_and_Karatsuba_Multiplication.pdf)
++ 12. Square Roots and Newton's Method
+  - Error analysis 
+  - Multiplication algorithms: Karatsuba, Toom-Cook, Schonhage-Shranen, Furen
+  - High precision division
+  - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/12.Square%20roots%2C%20Newton%E2%80%99s%20Method.pdf)
+  - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture12_Square_Root_and_Division.pdf)
+  
 
 
 	
