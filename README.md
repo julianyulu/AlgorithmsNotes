@@ -84,11 +84,16 @@
   - High precision division
   - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/12.Square%20roots%2C%20Newton%E2%80%99s%20Method.pdf)
   - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture12_Square_Root_and_Division.pdf)
-  
++ 13. Breadth First Search
+  - Graph, graph representation and graph search
+  - Breadth-first search (BFS)
+  - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/13.Breadth%20First%20Search.pdf)
+  - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture13_Breadth_First_Search.pdf)
+
 
 
 	
   
 # Last update  
-Jun. 28, 2018
+Jun. 29, 2018
 
