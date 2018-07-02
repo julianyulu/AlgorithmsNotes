@@ -89,11 +89,17 @@
   - Breadth-first search (BFS)
   - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/13.Breadth%20First%20Search.pdf)
   - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture13_Breadth_First_Search.pdf)
-
++ 14. Depth First Search, Topological Sort
+  - Depth-first search, Edge classification 
+  - Topological sort, job scheduling
+  - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/14.Depth%20First%20Search%2CTopological%20Sort.pdf)
+  - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture14_Depth_First_Search_Topological_Sort.pdf)
+  
+  
 
 
 	
   
 # Last update  
-Jun. 29, 2018
+July. 02, 2018
 
