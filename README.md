@@ -94,12 +94,18 @@
   - Topological sort, job scheduling
   - [Lecture Notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/14.Depth%20First%20Search%2CTopological%20Sort.pdf)
   - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture14_Depth_First_Search_Topological_Sort.pdf)
-  
++ 15. Intro to Single-Path Shortest Problem
+  - Motivation and weighted graphs
+  - Negative weights and negative cycles
+  - General structure, Optimal structure
+  - [Lecture notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/15.Single%20Source%20Shortest%20Paths%20Problem.pdf)
+  - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture15_Intro_of_The_Shortest_Path_Problem.pdf)
+
   
 
 
 	
   
 # Last update  
-July. 02, 2018
+July. 03, 2018
 
