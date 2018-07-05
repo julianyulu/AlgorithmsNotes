@@ -100,12 +100,16 @@
   - General structure, Optimal structure
   - [Lecture notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/15.Single%20Source%20Shortest%20Paths%20Problem.pdf)
   - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture15_Intro_of_The_Shortest_Path_Problem.pdf)
-
++ 16. Dijkstra Algorithm 
+  - Directed Acyclic Graphics (DAGs)
+  - Dijkstra 
+  - [Lecture note](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/16.Dijkstra.pdf)
+  - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture16_Dijkstra.pdf)
   
 
 
 	
   
 # Last update  
-July. 03, 2018
+July. 05, 2018
 
