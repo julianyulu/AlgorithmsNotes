@@ -103,13 +103,18 @@
 + 16. Dijkstra Algorithm 
   - Directed Acyclic Graphics (DAGs)
   - Dijkstra 
-  - [Lecture note](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/16.Dijkstra.pdf)
+  - [Lecture notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/16.Dijkstra.pdf)
   - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture16_Dijkstra.pdf)
++ 17. Bellman-Ford Algorithm
+  - Bellman-Ford Algorithm 
+  - [Lecture notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/17.Bellman%20Ford.pdf)
+  - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture17_Bellman_Ford_Algorithm.pdf)
+  
   
 
 
 	
   
 # Last update  
-July. 05, 2018
+July. 10, 2018
 
