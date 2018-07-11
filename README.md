@@ -109,6 +109,12 @@
   - Bellman-Ford Algorithm 
   - [Lecture notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/17.Bellman%20Ford.pdf)
   - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture17_Bellman_Ford_Algorithm.pdf)
++ 18. Speed Up Dijkstra
+  - Bi-directional search
+  - Goal-Dwected search 
+  - [Lecture notes](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/18.Speed%20Up%20Dijkstra.pdf)
+  - [Lecture pdf](https://github.com/SuperYuLu/AlgorithmsNotes/blob/master/Lecture_PDFs/Lecture18_Speed_Up_Dijkstra.pdf)
+  
   
   
 
@@ -116,5 +122,5 @@
 	
   
 # Last update  
-July. 10, 2018
+July. 11, 2018
 
